@@ -14,14 +14,31 @@ namespace Cyberwisebot
         static void Main(string[] args)
         {
             PlayVoiceGreeting();
+            DisplayAsciiArt();
 
         }
         static void PlayVoiceGreeting()
         {
-           SoundPlayer soundPlayer = new SoundPlayer("greeting.wav"); 
+            SoundPlayer soundPlayer = new SoundPlayer("greeting.wav");
             soundPlayer.Load();
             soundPlayer.PlaySync();
         }
+        static void DisplayAsciiArt()
+        {
+            // Display the ASCII art in green
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(@"
+  ██████╗██╗   ██╗██████╗ ███████╗██╗    ██╗██╗███████╗███████╗
+ ██╔════╝██║   ██║██╔══██╗██╔════╝██║    ██║██║██╔════╝██╔════╝
+ ██║     ██║   ██║██████╔╝█████╗  ██║ █╗ ██║██║█████╗  █████╗  
+ ██║     ██║   ██║██╔═══╝ ██╔══╝  ██║███╗██║██║██╔══╝  ██╔══╝  
+ ╚██████╗╚██████╔╝██║     ███████╗╚███╔███╔╝██║██║     ██║     
+  ╚═════╝ ╚═════╝ ╚═╝     ╚══════╝ ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝     
+        ");
+            Console.ResetColor();
+        }
+
+
 
     }
 }
