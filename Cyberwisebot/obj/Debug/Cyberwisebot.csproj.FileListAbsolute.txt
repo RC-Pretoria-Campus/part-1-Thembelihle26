@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\Desktop\Final Submision\part-1-Thembelihle26\Cyberwisebot\bin\Debug\Cyberwisebot.exe.config
+C:\Users\RC_Student_lab\Desktop\Final Submision\part-1-Thembelihle26\Cyberwisebot\bin\Debug\Cyberwisebot.exe
+C:\Users\RC_Student_lab\Desktop\Final Submision\part-1-Thembelihle26\Cyberwisebot\bin\Debug\Cyberwisebot.pdb
+C:\Users\RC_Student_lab\Desktop\Final Submision\part-1-Thembelihle26\Cyberwisebot\obj\Debug\Cyberwisebot.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Desktop\Final Submision\part-1-Thembelihle26\Cyberwisebot\obj\Debug\Cyberwisebot.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\Final Submision\part-1-Thembelihle26\Cyberwisebot\obj\Debug\Cyberwisebot.exe
+C:\Users\RC_Student_lab\Desktop\Final Submision\part-1-Thembelihle26\Cyberwisebot\obj\Debug\Cyberwisebot.pdb
